@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgba(201, 76, 76, 0.3);
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.resume {
+    height: 100%;
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.resume p {
+    padding-bottom: 20px;
+}
+
+.resume img {
+    display: block;
+    margin: 0 auto 100px auto;
+    width: 500px;
+    height: 500px;
+}
